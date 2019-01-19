@@ -1,0 +1,1 @@
+../../freedom-e-sdk/bsp/env/entry.S
