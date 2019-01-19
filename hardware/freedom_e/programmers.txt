@@ -1,4 +1,4 @@
-openocd.name=SiFive OpenOCD
+openocd.name=Shakthi OpenOCD
 openocd.communication=usb
 openocd.program.params.verbose=-v
 openocd.program.params.quiet=-q
